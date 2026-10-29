@@ -1,1 +1,1 @@
-Platform Game 3D - Control a dirt golem which has been sent to buy seeds for his creator in the town of the country. Ended being detained by the king and his guards for uknow reasons.
+Platform Game 3D - Control a dirt golem sent to buy seeds for its creator in a nearby town, only to be detained by the king and his guards for unknown reasons.
